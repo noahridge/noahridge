@@ -4,7 +4,7 @@
 - 🏥 Mostly spend my time using Python to accellerate research at my job as Biomedical R&D Engineer.
 - 🔧 I am always looking for new Python tools to make tackling data science problems easier.
 - 🖥️ Currently excited about Shiny for Python, its driving a new paradigm for Python web applications!
-- 🦀 Learning Rust, excited about the future of Python + Rust extensions with Py03.
+- 🦀 Learning Rust, excited about the future of Python + Rust extensions with PyO3.
 
   
 
