@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi I'm Noah Ridge
+
+- I've been programming in Python for over 5 years.
+- Mostly spend my time applying Python to my job as Biomedical R&D Engineer.
+- I always looking for new Python tools to make tackling data science problems easier.
+- Currently excited about Shiny for Python, its driving a new paradigm for Python web applications!
+- Learning Rust, excited about the future of Python + Rust extensions with Py03.
 
 <!--
 **noahridge/noahridge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
